@@ -1,0 +1,70 @@
+{
+  "source": "EEZ Studio LVGL 8.x + LVGL 8.3.11 default dark theme",
+  "display": {"width": 800, "height": 480, "colorFormat": "BGR"},
+  "theme": {
+    "scr": [21, 23, 26],
+    "card": [40, 43, 48],
+    "grey": [47, 50, 55],
+    "text": [250, 250, 250],
+    "muted": [158, 158, 158],
+    "primary": [33, 150, 243],
+    "primaryPressed": [25, 118, 210],
+    "primaryMuted": [23, 48, 69],
+    "white": [255, 255, 255],
+    "disabled": [97, 97, 97]
+  },
+  "pages": {
+    "home": {
+      "widgets": {
+        "title": {"x": 24, "y": 22, "w": 160, "h": 32, "text": "拼图控制"},
+        "tabOrdinary": {"x": 200, "y": 0, "w": 300, "h": 70, "text": "普通拼图"},
+        "tabPoker": {"x": 500, "y": 0, "w": 300, "h": 70, "text": "扑克牌"},
+        "btnStart": {"x": 40, "y": 88, "w": 720, "h": 88, "text": "一键开始拼图"},
+        "btnCalib": {"x": 40, "y": 188, "w": 171, "h": 88, "text": "角点标定"},
+        "btnCalibPreview": {"x": 223, "y": 188, "w": 171, "h": 88, "text": "标定预览"},
+        "btnTune": {"x": 406, "y": 188, "w": 171, "h": 88, "text": "OpenCV 调参"},
+        "btnLive": {"x": 589, "y": 188, "w": 171, "h": 88, "text": "相机原画面"},
+        "btnManual": {"x": 40, "y": 336, "w": 720, "h": 76, "text": "设备手动控制"},
+        "subtitle": {"x": 24, "y": 292, "w": 752, "h": 32},
+        "status": {"x": 24, "y": 438, "w": 752, "h": 40}
+      }
+    },
+    "calib": {
+      "widgets": {
+        "btnBack": {"x": 16, "y": 8, "w": 140, "h": 54, "text": "返回"},
+        "title": {"x": 200, "y": 8, "w": 400, "h": 54, "text": "角点标定"},
+        "image": {"x": 16, "y": 70, "w": 768, "h": 348},
+        "btnUndo": {"x": 16, "y": 426, "w": 180, "h": 44, "text": "撤销"},
+        "btnSave": {"x": 208, "y": 426, "w": 180, "h": 44, "text": "保存"},
+        "status": {"x": 400, "y": 426, "w": 384, "h": 44}
+      }
+    },
+    "live": {
+      "widgets": {
+        "btnBack": {"x": 16, "y": 8, "w": 140, "h": 54, "text": "返回"},
+        "title": {"x": 200, "y": 8, "w": 400, "h": 54, "text": "相机原画面"},
+        "image": {"x": 16, "y": 70, "w": 768, "h": 348},
+        "status": {"x": 16, "y": 426, "w": 768, "h": 44}
+      }
+    },
+    "tune": {
+      "comment": "LVGL flex row: image left, sliders column right (widgets demo + slider example)",
+      "widgets": {
+        "btnBack": {"x": 16, "y": 8, "w": 140, "h": 54, "text": "返回"},
+        "title": {"x": 168, "y": 8, "w": 464, "h": 54, "text": "OpenCV 调参"},
+        "btnSave": {"x": 644, "y": 8, "w": 140, "h": 54, "text": "保存"},
+        "image": {"x": 16, "y": 70, "w": 360, "h": 352},
+        "btnGroupPiece": {"x": 392, "y": 70, "w": 192, "h": 36, "text": "碎片"},
+        "btnGroupBoard": {"x": 592, "y": 70, "w": 192, "h": 36, "text": "找A4"},
+        "btnMode": {"x": 392, "y": 110, "w": 192, "h": 32, "text": "阈值模式"},
+        "btnPagePrev": {"x": 592, "y": 110, "w": 92, "h": 32, "text": "上一页"},
+        "btnPageNext": {"x": 692, "y": 110, "w": 92, "h": 32, "text": "下一页"},
+        "slider0": {"x": 392, "y": 148, "w": 392, "h": 64},
+        "slider1": {"x": 392, "y": 212, "w": 392, "h": 64},
+        "slider2": {"x": 392, "y": 276, "w": 392, "h": 64},
+        "slider3": {"x": 392, "y": 340, "w": 392, "h": 64},
+        "status": {"x": 16, "y": 430, "w": 768, "h": 42}
+      }
+    }
+  }
+}

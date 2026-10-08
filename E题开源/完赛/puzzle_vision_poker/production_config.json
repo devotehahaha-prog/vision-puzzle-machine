@@ -1,0 +1,126 @@
+{
+  "config_version": 1,
+  "calibration_complete": false,
+  "require_empty_run": true,
+  "calibration_state": {
+    "camera": false,
+    "xy": false,
+    "z": false,
+    "rotation": false,
+    "grbl_homed": false
+  },
+  "execution_backend": "dual_grbl_stm32",
+  "coordinate_system": {
+    "origin": "A4_top_left",
+    "x_positive": "right",
+    "y_positive": "down",
+    "z_positive": "down",
+    "rotation_positive": "clockwise"
+  },
+  "source_region": "bottom",
+  "target_region": "top",
+  "expected_piece_count": 3,
+  "puzzle_mode": "generic_geometry",
+  "segmentation_mode": "background_inverse",
+  "auto_board_calibration": false,
+  "generic_target_piece_clearance_mm": 6.0,
+  "separator_line_y_mm": 148.5,
+  "stability_frame_count": 5,
+  "stability_required_good_frames": 4,
+  "stability_center_threshold_mm": 2.0,
+  "stability_shape_threshold_mm": 3.0,
+  "stability_area_ratio_threshold": 0.12,
+  "enforce_pattern_gate": true,
+  "poker_ncc_min_similarity": 0.55,
+  "motion_target_offset_mm": [
+    0.0,
+    0.0
+  ],
+  "motion_xy_command_matrix": [
+    [
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0
+    ]
+  ],
+  "motion_xy_command_bias_mm": [
+    0.0,
+    0.0
+  ],
+  "xy_transform": {
+    "matrix": [
+      [
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bias_mm": [
+      0.0,
+      0.0
+    ]
+  },
+  "tool_offset_mm": [
+    0.0,
+    0.0
+  ],
+  "z": {
+    "safe": 0.0,
+    "pickup": 4.0,
+    "place": 4.0,
+    "feed_mm_min": 240.0,
+    "settle_s": 0.25,
+    "travel": -0.5,
+    "contact_margin_mm": 1.0,
+    "contact_feed_mm_min": 120.0
+  },
+  "rotation": {
+    "pulses_per_revolution": 3200,
+    "positive_direction": "clockwise",
+    "max_angle_deg": 180.0,
+    "settle_s": 0.25
+  },
+  "motion": {
+    "xy_feed_mm_min": 4000.0,
+    "pickup_settle_s": 0.9,
+    "release_settle_s": 0.5,
+    "require_homing": false,
+    "origin_mode": "manual",
+    "manual_origin_tolerance_mm": 0.5,
+    "xy_settle_s": 0.25,
+    "xy_simultaneous": true,
+    "xy_simultaneous_compensate_components": true,
+    "xy_shortcut_path": true
+  },
+  "serial": {
+    "grbl_port": "/dev/serial/by-id/usb-1a86_USB_Serial-if00-port0",
+    "stm32_port": "/dev/ttyS6",
+    "baudrate": 115200,
+    "timeout_s": 1.0
+  },
+  "background_distance_components": "ab",
+  "strict_production": true,
+  "approval_workflow": true,
+  "require_approved_session": true,
+  "auto_max_retries": 1,
+  "stability_target_threshold_mm": 3.0,
+  "stability_rotation_threshold_deg": 3.0,
+  "final_verify_max_position_error_mm": 3.0,
+  "final_verify_max_rotation_error_deg": 3.0,
+  "camera_width": 1280,
+  "camera_height": 720,
+  "camera_fps": 30,
+  "camera_fourcc": "MJPG",
+  "camera_profile_required": true,
+  "camera_device": "/dev/video0",
+  "target_corresponding_vertex_limit_mm": 20.0,
+  "raw_background_denoise_sigma_px": 1.0,
+  "planning_polygon_area_tie_tolerance": 0.01,
+  "planning_polygon_alternatives": true
+}

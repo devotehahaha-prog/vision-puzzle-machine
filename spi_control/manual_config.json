@@ -1,0 +1,17 @@
+{
+  "grbl_port": "/dev/serial/by-id/usb-1a86_USB_Serial-if00-port0",
+  "aux_port": "/dev/ttyS6",
+  "baudrate": 115200,
+  "reply_timeout_s": 1.0,
+  "connect_wait_s": 15.0,
+  "grbl_feeds": [
+    1500.0,
+    3000.0,
+    5000.0
+  ],
+  "z_feeds": [
+    400.0,
+    700.0,
+    1200.0
+  ]
+}

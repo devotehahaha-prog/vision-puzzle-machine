@@ -1,0 +1,567 @@
+[
+  {
+    "path": "spi_control/calibration_preview.py",
+    "source": "remote_spi\\spi_control\\calibration_preview.py",
+    "source_sha256": "f0227692a33859178ba7d3acfe9467c0573c2205582f2f7160a5df90b01f7bdd"
+  },
+  {
+    "path": "spi_control/camera_job.py",
+    "source": "remote_spi\\spi_control\\camera_job.py",
+    "source_sha256": "40b5241c7a8b2a83c1637f6d5b3987bb92788bf0c71bb21b385169a6ba96fdcb"
+  },
+  {
+    "path": "spi_control/check_environment.py",
+    "source": "remote_spi\\spi_control\\check_environment.py",
+    "source_sha256": "ceec01947f957cde870d32f7ed54ff10de28e5fc1e0fc402cf64b60dd1acca67"
+  },
+  {
+    "path": "spi_control/layout.py",
+    "source": "remote_spi\\spi_control\\layout.py",
+    "source_sha256": "34069805398cc098707f48c054c14c09cf6af46b91e2c7c8aa87430881cadc00"
+  },
+  {
+    "path": "spi_control/manual_config.json",
+    "source": "remote_spi\\spi_control\\manual_config.json",
+    "source_sha256": "fc85d6369dec5dfd9279a38282c74527dfa3c846d9894696295e765e169b528a"
+  },
+  {
+    "path": "spi_control/manual_control.py",
+    "source": "remote_spi\\spi_control\\manual_control.py",
+    "source_sha256": "7beb9032b689c1ceecf53e9ecd19f287ba3c7850a28b57f7aa43813a4f2e9bc0"
+  },
+  {
+    "path": "spi_control/manual_page.py",
+    "source": "remote_spi\\spi_control\\manual_page.py",
+    "source_sha256": "d6e4ab98f7e952b48cbf30324ef5adbd6f5518e8cfa584f6ef91eeb368941d7c"
+  },
+  {
+    "path": "spi_control/ordinary_camera.py",
+    "source": "remote_spi\\spi_control\\ordinary_camera.py",
+    "source_sha256": "a43317f4a47373f8ee6cf35f2b4fc3348e6e30b9c365908bf120beee81321784"
+  },
+  {
+    "path": "spi_control/runtime_support.py",
+    "source": "remote_spi\\spi_control\\runtime_support.py",
+    "source_sha256": "2ae3cc87913ea0a5bbfde796709159bccec18873f36c6659a5820b92bd18caf7"
+  },
+  {
+    "path": "spi_control/serial_connection.py",
+    "source": "remote_spi\\spi_control\\serial_connection.py",
+    "source_sha256": "ab5d5e831bb88b054bea7eb467c3e295da4d4556dde78db1baf84426b32a2dda"
+  },
+  {
+    "path": "spi_control/start_page.py",
+    "source": "remote_spi\\spi_control\\start_page.py",
+    "source_sha256": "f87f28d538f8e07ee13f2590607059d1344f628dd89053f1ec559277d0bf2d1f"
+  },
+  {
+    "path": "spi_control/ui_layout.json",
+    "source": "remote_spi\\spi_control\\ui_layout.json",
+    "source_sha256": "8c5f8edfa2c6f2a30cd713999b5719ca39746386e560d24267e6490359956cc4"
+  },
+  {
+    "path": "spi_control/启动触摸屏控制.sh",
+    "source": "remote_spi\\spi_control\\启动触摸屏控制.sh",
+    "source_sha256": "f1a73396e548cda1425de90e32824fb6483271f0fb3b1dd58d4506726d4dfe16"
+  },
+  {
+    "path": "spi_control/tests/render_manual.py",
+    "source": "remote_spi\\spi_control\\tests\\render_manual.py",
+    "source_sha256": "41709f7333151a96cf0d2558ee94d9db26ec4f36cb7f24f0aab4f945ef5a269f"
+  },
+  {
+    "path": "spi_control/tests/test_calibration_preview.py",
+    "source": "remote_spi\\spi_control\\tests\\test_calibration_preview.py",
+    "source_sha256": "a83739a1578938c03b298434e80e7ef92fef739e87001ee7d874ce25f97390b0"
+  },
+  {
+    "path": "spi_control/tests/test_layout.py",
+    "source": "remote_spi\\spi_control\\tests\\test_layout.py",
+    "source_sha256": "0895d952c00118ef3ede51c345e9a628d4d0c537911d762a64f7055b75868e26"
+  },
+  {
+    "path": "spi_control/tests/test_manual_control.py",
+    "source": "remote_spi\\spi_control\\tests\\test_manual_control.py",
+    "source_sha256": "4a3b11174c2453198a9db1063cacdb4852ca8a32313f0ad76ba9d7c0ce376db4"
+  },
+  {
+    "path": "spi_control/tests/test_ordinary_camera.py",
+    "source": "remote_spi\\spi_control\\tests\\test_ordinary_camera.py",
+    "source_sha256": "f8490fd2652b6eb4d5673f62ced3d5814c3088f6ca29b10fbefa1eb5388bf623"
+  },
+  {
+    "path": "spi_control/tests/test_ordinary_execution_ui.py",
+    "source": "remote_spi\\spi_control\\tests\\test_ordinary_execution_ui.py",
+    "source_sha256": "9dcc065108bc01c6479dca03771c34368d48a10aed974e7ddd82bac1db5b88ea"
+  },
+  {
+    "path": "spi_control/tests/test_preview_refresh.py",
+    "source": "remote_spi\\spi_control\\tests\\test_preview_refresh.py",
+    "source_sha256": "2fb706bc056569381d60c4c8e74f5390963b54fb12f50fceac2fcd021262d70c"
+  },
+  {
+    "path": "spi_control/tests/test_reconnect_environment.py",
+    "source": "remote_spi\\spi_control\\tests\\test_reconnect_environment.py",
+    "source_sha256": "b36aedfe894c78e518721007b902b5c85a218ba0fceeef4582ff1589512a4913"
+  },
+  {
+    "path": "spi_control/tests/test_workflow.py",
+    "source": "remote_spi\\spi_control\\tests\\test_workflow.py",
+    "source_sha256": "c3e110c68b254fadf74f862d0bfda95e874419f2444720a5a1b65221020fd208"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/approved_plan.py",
+    "source": "remote_project2\\puzzle_vision_poker\\approved_plan.py",
+    "source_sha256": "dbbd8a8fc2e82dce7da1a16cfc93d98a2c2f01a722a4315519f3713e630df344"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/config.json",
+    "source": "remote_project2\\puzzle_vision_poker\\config.json",
+    "source_sha256": "1077f274b23fd95828b81761e1df21e5049ee65d791adef7267c8918be2fc4f0"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/dual_serial_executor.py",
+    "source": "remote_project2\\puzzle_vision_poker\\dual_serial_executor.py",
+    "source_sha256": "adb438b5728ccbac3514360355c36cd2273d9a84a96e92ba5a6f5c8726ab6b9c"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/edge_matcher.py",
+    "source": "remote_project2\\puzzle_vision_poker\\edge_matcher.py",
+    "source_sha256": "76da52456d8de71818de18b6ad5fd868300aea5b7243e49309ecaa6b0965f76d"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/generic_solver.py",
+    "source": "remote_project2\\puzzle_vision_poker\\generic_solver.py",
+    "source_sha256": "e6bd8451e2b33f3b1afab7feee6a3fdb606aa6af3b165043b65c8c6bbb1d5d28"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/main.py",
+    "source": "remote_project2\\puzzle_vision_poker\\main.py",
+    "source_sha256": "679737e9fe210bbefcaac3c599727a2e1f6ddc96b09386589f5ba84c5cbc7fb6"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/orthogonal_path_planner.py",
+    "source": "remote_project2\\puzzle_vision_poker\\orthogonal_path_planner.py",
+    "source_sha256": "6713184a08837652d08835a4e94938969959a12e5d82e768812ffbe72005019c"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/plan_alternatives_fixture.json",
+    "source": "remote_project2\\puzzle_vision_poker\\plan_alternatives_fixture.json",
+    "source_sha256": "467d0a4a177528c8a7d7d536d0e20219888fa5c4a1a732649ec3731ef708e6a3"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/plan_generation_fixture.json",
+    "source": "remote_project2\\puzzle_vision_poker\\plan_generation_fixture.json",
+    "source_sha256": "d266cb0bf57ec5a17b5f997dca1f503231522d3a0d013947bf9b3f43a8a31065"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/position_calibration.py",
+    "source": "remote_project2\\puzzle_vision_poker\\position_calibration.py",
+    "source_sha256": "91e6306ad215ea564803b2fc34f2da8dd4184d6548cc237676aa99f1f19620be"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/production_config.json",
+    "source": "remote_project2\\puzzle_vision_poker\\production_config.json",
+    "source_sha256": "51c85781a370e394f7b5e5ee31e60380aa39194a7fda35b4ced16f10dbfe978d"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/qa_sim_gui.py",
+    "source": "remote_project2\\puzzle_vision_poker\\qa_sim_gui.py",
+    "source_sha256": "f53098de1efef68504649cc50840473111ab24a10d519e618ab436436cf71c28"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/qa_sim_layouts.py",
+    "source": "remote_project2\\puzzle_vision_poker\\qa_sim_layouts.py",
+    "source_sha256": "f184af917cc2547c42e54c53e9bff0e5fbfe85a1420b0db0fdffb0043e6bac1b"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/requirements-sim.txt",
+    "source": "remote_project2\\puzzle_vision_poker\\requirements-sim.txt",
+    "source_sha256": "c4459ec6103450a1df500d3ee3c9bc311b29beaf986dfa133f8c055386b66990"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/requirements.txt",
+    "source": "remote_project2\\puzzle_vision_poker\\requirements.txt",
+    "source_sha256": "d72fd0cb7a830581b60fd93bd8cbb02b10d1640a578e9280b008d1ff932f1dd8"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/rotation_calibration.py",
+    "source": "remote_project2\\puzzle_vision_poker\\rotation_calibration.py",
+    "source_sha256": "a91b468a4f6f034de380872243a60825b60750ea3af1394a394ae64c24bd55cb"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/run_real.py",
+    "source": "remote_project2\\puzzle_vision_poker\\run_real.py",
+    "source_sha256": "64f750df4e35f1fa5c3fc7f28cf8db1e0cb2c72ff16e8aae91d0fbd730584e09"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/run_sim.py",
+    "source": "remote_project2\\puzzle_vision_poker\\run_sim.py",
+    "source_sha256": "caaf0c50de1c81105f3c96ab7785bdc9517f774d8c1d3d5d1f066a0837b8d7b9"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/serial_connection.py",
+    "source": "remote_project2\\puzzle_vision_poker\\serial_connection.py",
+    "source_sha256": "ab5d5e831bb88b054bea7eb467c3e295da4d4556dde78db1baf84426b32a2dda"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/serial_transport.py",
+    "source": "remote_project2\\puzzle_vision_poker\\serial_transport.py",
+    "source_sha256": "43196ad4002b84af2faff6a01c396639d4c9e132c3e4947a8743c1e02e36170b"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/sim_config.json",
+    "source": "remote_project2\\puzzle_vision_poker\\sim_config.json",
+    "source_sha256": "07401500d4c84a061de32bb62478ee3961b1b0c3f64f0641bcfd4de45ddd502b"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_approved_plan.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_approved_plan.py",
+    "source_sha256": "6b88bd8e158cfa005022f4f7c78670b950c7f247574463d332e96a2e91b646ec"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_dual_serial_executor.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_dual_serial_executor.py",
+    "source_sha256": "a3ec47f56417140bd74804b5a6d17407eeaa69f899cfdda7fc1fcf9a433e766a"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_final_inspection.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_final_inspection.py",
+    "source_sha256": "870c42c55315bbfcc4d2c2906c08fdbd1fff13abe3e071efb8c8c462ae10e069"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_motion_stability.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_motion_stability.py",
+    "source_sha256": "c4f3c0aea4636557604de6e21417ca4ec9d4a9c6a597c4541f31f352fb73f85d"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_ordinary_execution.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_ordinary_execution.py",
+    "source_sha256": "11e88e9ea8459e0790e743004001039b160b822484c365ffc49be17e4e2ec185"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_plan_generation_diagnostics.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_plan_generation_diagnostics.py",
+    "source_sha256": "c8d7f1495015a765c70b0dcb41097ecf390e90c59ed8ce0d41976fcaf452f9cb"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_real_entry.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_real_entry.py",
+    "source_sha256": "b2a47aaa9340f49f92a70f77a3a0ae606ef838f6637dc7ab59610d488033bcb9"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_serial_connection.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_serial_connection.py",
+    "source_sha256": "edae18d87403313c68d9abe4b3949dc7ede97084ebcab2866e27a8b548a689e3"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_sim.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_sim.py",
+    "source_sha256": "00fbe794076be081141147dfbc966c2d5b4709f596051f3c4dd8e0b0cea58908"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_solver_speed.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_solver_speed.py",
+    "source_sha256": "d43c65bcbac482f46bd61e3a1ed288ce17487c898efffbf42a0c3f975234966d"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/test_stable_plan.py",
+    "source": "remote_project2\\puzzle_vision_poker\\test_stable_plan.py",
+    "source_sha256": "eea3e61901f4fffd3262dba196ab7c24095694e622fdda7bb78c6303c78b1c37"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/tools/p1_position_calibrate.py",
+    "source": "remote_project2\\puzzle_vision_poker\\tools\\p1_position_calibrate.py",
+    "source_sha256": "b1499228d1a308de2a13d660eaba441e9395d04e5d43c2685f4d90bd63528945"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision_poker/tools/p1_rotation_calibrate.py",
+    "source": "remote_project2\\puzzle_vision_poker\\tools\\p1_rotation_calibrate.py",
+    "source_sha256": "4db81172c9bbfca7c8680455bae9108021488ad7beb3909686be8330569a00e1"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/config.json",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\config.json",
+    "source_sha256": "e5f2f1eb0c6ec99ec9b5acf4b2f9124bcae942a795e4e14575a31b093e0c4c5e"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/generic_solver.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\generic_solver.py",
+    "source_sha256": "d7219622f90e0a1641eac0dd1fb880df725a346971d7e7e0af17269dce7f3cb5"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/main.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\main.py",
+    "source_sha256": "26a02f586aabcad5a4d53a0d9c8cfcb7d7d13f42407654c3948667cd33fb557e"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/orthogonal_path_planner.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\orthogonal_path_planner.py",
+    "source_sha256": "6b1345f715227676b4004b37f0d8757e68e279438e026f99dda39115bfbf615c"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/position_calibration.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\position_calibration.py",
+    "source_sha256": "ff7128c68792d81fc87bcd47d9143dc4d0978414eeb8237949ca7af28c6f5598"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/qa_sim_gui.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\qa_sim_gui.py",
+    "source_sha256": "9d6d0ebd12a5746b4af25d4147c0a1b9d347cbed77e1f33a0c6bb7e16e557777"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/qa_sim_layouts.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\qa_sim_layouts.py",
+    "source_sha256": "161ace75c07f602388f71f68e8547c03d32ca130adc58bc0e92996447b6d96fb"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/real_config.json",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\real_config.json",
+    "source_sha256": "f3674cc35ebaf73b7ecbf6563d1508e2857f5319297180881b668c8b2ad0b5ec"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/rotation_calibration.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\rotation_calibration.py",
+    "source_sha256": "a0a13ec5461af1dc9f783a5a12d5b6897d2a3626fceacffbec0ba8d2eae2b739"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/run_real.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\run_real.py",
+    "source_sha256": "8badeb868aecf4128211df39e333f99c6c8c5e59faa63cb6658a055e507bcb11"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/run_sim.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\run_sim.py",
+    "source_sha256": "81930d5048c287022a7508243cfcd2822fea38c97265a67a4b7dbf833b97688e"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/serial_transport.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\serial_transport.py",
+    "source_sha256": "a9a131e6ac905dc1ed17727cf794115e07dce8748369a228c1a85946a8940449"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/sim_config.json",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\sim_config.json",
+    "source_sha256": "8f290c2f899ebed19e971de9a09988a740cd37d06f4b4f9644e78367dae43238"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/test_real_entry.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\test_real_entry.py",
+    "source_sha256": "4ed4fc9d6b92bab1fb6e712be17fd704754214723337652782eb835375021a5d"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/test_sim.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\test_sim.py",
+    "source_sha256": "ebc80ec23a89700ab5978ef0c095e494a21b405c3f504379cc2f16a16a6da69c"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/touch2click.py",
+    "source": "codex_stage\\ordinary_final_review_20260930\\candidate\\E题开源\\完赛\\puzzle_vision\\touch2click.py",
+    "source_sha256": "5d7e15eb3a7afe0cbfe3239d1e25c1df68c21c615dad96942fe0bd0f0279fdbb"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/requirements-sim.txt",
+    "source": "完赛\\puzzle_vision\\requirements-sim.txt",
+    "source_sha256": "4cefb9c136577ee46a7dab4f31b173bbf24a1f00d03db24ba0719548c6d1cd91"
+  },
+  {
+    "path": "E题开源/完赛/puzzle_vision/requirements.txt",
+    "source": "完赛\\puzzle_vision\\requirements.txt",
+    "source_sha256": "d72fd0cb7a830581b60fd93bd8cbb02b10d1640a578e9280b008d1ff932f1dd8"
+  },
+  {
+    "path": "pybullet/puzzle_device/assemble.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\assemble.py",
+    "source_sha256": "c9ad29da80df89469b407e8330b0ad180818bca868d6155aac3f21b3180d516a"
+  },
+  {
+    "path": "pybullet/puzzle_device/board_from_photo.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\board_from_photo.py",
+    "source_sha256": "518a8c53e18c3695562a18bf1622c55611bf4a680e9067cab69c1c050ac16e5c"
+  },
+  {
+    "path": "pybullet/puzzle_device/config.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\config.py",
+    "source_sha256": "baf68ad1c718a1c3f6896a1ff36063fd7dcfe83043d9890820935dd9fa6b3913"
+  },
+  {
+    "path": "pybullet/puzzle_device/gantry_urdf.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\gantry_urdf.py",
+    "source_sha256": "9be46b0da6840b514ce2e08785138f73729ff10e1faaa4867738d15af29a7a16"
+  },
+  {
+    "path": "pybullet/puzzle_device/mesh_builder.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\mesh_builder.py",
+    "source_sha256": "79c4b46a39a93cdadfaa8eabd4e74661efde4086af8c2726c24f23b195a193e8"
+  },
+  {
+    "path": "pybullet/puzzle_device/protocol.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\protocol.py",
+    "source_sha256": "5d7ff3b3bf5c482a001781cb2fabb7a11c0a43eebb29839cb9b5ad5115370d10"
+  },
+  {
+    "path": "pybullet/puzzle_device/qa_gui.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\qa_gui.py",
+    "source_sha256": "ae61e0d075a03da6076198a04555f13ff46b37e850d23cb60f2abcffd0fb476e"
+  },
+  {
+    "path": "pybullet/puzzle_device/run_auto.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\run_auto.py",
+    "source_sha256": "a8767691915d27581ed63046f6d642712efddb37b2f5d7d4ff7e632421dd09be"
+  },
+  {
+    "path": "pybullet/puzzle_device/run_demo.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\run_demo.py",
+    "source_sha256": "78f555d93bfa8a9e23236e7925238706b1fec49b8b46d76e7ab7562b6a3ec0c8"
+  },
+  {
+    "path": "pybullet/puzzle_device/run_from_vision.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\run_from_vision.py",
+    "source_sha256": "535b0f1cb985ddd8b026ab2ee191b0ce25c292f5ce4eebc049c441a1aab8b4b7"
+  },
+  {
+    "path": "pybullet/puzzle_device/simulator.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\simulator.py",
+    "source_sha256": "69fc351cba6dfc8f76b019183d05a040bc7a680bcf8ee9031a3aaaac51c68e5d"
+  },
+  {
+    "path": "pybullet/puzzle_device/test_execution.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\test_execution.py",
+    "source_sha256": "8f7f66e0fe00a6bec801434162739d19335831259f6496ccdb8ec64b1b17e594"
+  },
+  {
+    "path": "pybullet/puzzle_device/virtual_camera.py",
+    "source": "codex_stage\\remote_analysis_20260930\\pybullet\\puzzle_device\\virtual_camera.py",
+    "source_sha256": "5f84b04cb8518afab3248e9f9457587b0620f1841d3a0c65ab843199b4fe6577"
+  },
+  {
+    "path": "firmware/Drive/Include/a4988.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\a4988.h",
+    "source_sha256": "bc6d75932a94d07152c82e074884d44c3f5a777e59a40cb466145991bc4617bb"
+  },
+  {
+    "path": "firmware/Drive/Include/aux_control.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\aux_control.h",
+    "source_sha256": "2c95619ff7b2e33dcdc12f18cc148da25a783ac7e3324334db9b78a95b7afd3a"
+  },
+  {
+    "path": "firmware/Drive/Include/delay.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\delay.h",
+    "source_sha256": "3d0e16915f4790369d49d6db5eacc40734dee36d7158a216b959cfa3954e14d2"
+  },
+  {
+    "path": "firmware/Drive/Include/key.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\key.h",
+    "source_sha256": "d214f003a14ba6b55d3c0df253289da645c5203c571aa4e952809175ef69f370"
+  },
+  {
+    "path": "firmware/Drive/Include/led.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\led.h",
+    "source_sha256": "b7a575f30913a6df4d8ac0ecfb459d44814da9e657668300334791f10b4a49bf"
+  },
+  {
+    "path": "firmware/Drive/Include/motion_config.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\motion_config.h",
+    "source_sha256": "63e265cca884f973008f4e690ec1e56eb7bfd4ce0da7723f70691bf5067c04dd"
+  },
+  {
+    "path": "firmware/Drive/Include/motion_protocol.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\motion_protocol.h",
+    "source_sha256": "00bebbe5cf0005fdb8e9b9609fd9d3ef756c44ecde6f4a3669518001c48f5c28"
+  },
+  {
+    "path": "firmware/Drive/Include/relay.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\relay.h",
+    "source_sha256": "a316d84139a8e504253690a0497243bf5a1508f97d4063566ea92d289079ed2d"
+  },
+  {
+    "path": "firmware/Drive/Include/servo.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\servo.h",
+    "source_sha256": "f1144a50fd4784b8dea351d453b9609e76559b54fe9aa21827a0b831cf022b28"
+  },
+  {
+    "path": "firmware/Drive/Include/servo_config.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\servo_config.h",
+    "source_sha256": "e09893ae90a7786d101adbf5fb9411e540ee112896c773b011070b2c70f8b9bd"
+  },
+  {
+    "path": "firmware/Drive/Include/usart.h",
+    "source": "9.步进电机驱动\\Drive\\Include\\usart.h",
+    "source_sha256": "3a5ec9df4b34895121a2b863ceaee3a64805c34ae83af39e8fb7bc0558f1cf5c"
+  },
+  {
+    "path": "firmware/Drive/Source/a4988.c",
+    "source": "9.步进电机驱动\\Drive\\Source\\a4988.c",
+    "source_sha256": "92804713d0b094cd271fed4dc22311f0cdac5532c80fd9b2d7d3e3d3cf7ee56f"
+  },
+  {
+    "path": "firmware/Drive/Source/aux_control.c",
+    "source": "9.步进电机驱动\\Drive\\Source\\aux_control.c",
+    "source_sha256": "81d372f09936e3c9dabb7e6a40e1d2a927c51f3df8421a54883ac6ecba6c9eea"
+  },
+  {
+    "path": "firmware/Drive/Source/delay.c",
+    "source": "9.步进电机驱动\\Drive\\Source\\delay.c",
+    "source_sha256": "c3877404a74ce32b0022990f3793ccdbcaa8f2c00ce87a7cb442c833eb1a05d9"
+  },
+  {
+    "path": "firmware/Drive/Source/key.c",
+    "source": "9.步进电机驱动\\Drive\\Source\\key.c",
+    "source_sha256": "7970899ce915033ff590650d6bc9a388d9afb1cbd0bcfcb22b58a231f09e02be"
+  },
+  {
+    "path": "firmware/Drive/Source/led.c",
+    "source": "9.步进电机驱动\\Drive\\Source\\led.c",
+    "source_sha256": "53a26db3a93a01e1f8925f63d06b804ac62f4cdb484798502b5d7e4377023f4f"
+  },
+  {
+    "path": "firmware/Drive/Source/motion_protocol.c",
+    "source": "9.步进电机驱动\\Drive\\Source\\motion_protocol.c",
+    "source_sha256": "90e1f802d16843dc63819439407e14c7b2fcf70eecccf62cdfee1fcff58d64c0"
+  },
+  {
+    "path": "firmware/Drive/Source/relay.c",
+    "source": "9.步进电机驱动\\Drive\\Source\\relay.c",
+    "source_sha256": "b593395e974e8ff3bef723de4308f5ac54902eaba0a363dbbec9e2256977cfc7"
+  },
+  {
+    "path": "firmware/Drive/Source/servo.c",
+    "source": "9.步进电机驱动\\Drive\\Source\\servo.c",
+    "source_sha256": "2056719bf8fcf3bb51974768794b565d6656604b7a8cb2df77ead851c361c601"
+  },
+  {
+    "path": "firmware/Drive/Source/usart.c",
+    "source": "9.步进电机驱动\\Drive\\Source\\usart.c",
+    "source_sha256": "611780d134f154829a19ee654c3bd905ae60091206740c803aff9f94661bcf45"
+  },
+  {
+    "path": "firmware/main.c",
+    "source": "9.步进电机驱动\\MY\\main.c",
+    "source_sha256": "fe89d93a5dabbd2a505a28f4bead5bf36be6442af3ed7942e6f0b08f13b6bcd8"
+  },
+  {
+    "path": "plotter/grbl_writer.py",
+    "source": "external/plotter/grbl_writer.py",
+    "source_sha256": "2cbf9e411cc0d3f8f0287cde45cef4bf8958534fbe65fc27f906427fa9f87967"
+  },
+  {
+    "path": "plotter/__init__.py",
+    "source": "external/plotter/__init__.py",
+    "source_sha256": "718cb3e5b2055e4e0bfce7bfad8eb3068b6fc6a188d97e44032a162234ea6b9c"
+  },
+  {
+    "path": "plotter/requirements.txt",
+    "source": "external/plotter/requirements.txt",
+    "source_sha256": "a4f65b742fe9fcf72c5231047a0955602c7d7a4020a9dadbadeb818eb97122b5"
+  },
+  {
+    "path": "plotter/example.svg",
+    "source": "external/plotter/example.svg",
+    "source_sha256": "afa1164e8318fdcb891733be6b90a99f9266a1f41e9e6018b41ed64be4a7743a"
+  },
+  {
+    "path": "plotter/example.nc",
+    "source": "external/plotter/example.nc",
+    "source_sha256": "36df6e93196b88436c6528d9db3916ce2c76c0a9287c7a70cf04fef9fdde093f"
+  }
+]
