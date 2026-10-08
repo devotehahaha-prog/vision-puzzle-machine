@@ -2,7 +2,17 @@
 
 面向 A4 工作区的实验性拼图装置：使用相机识别碎片，生成拼合方案，通过触摸屏确认，再由双控制器完成移动、旋转、吸取和放置。另提供独立的写字机串口控制与 SVG 转 G-code 工具。
 
-> **项目状态：实验性开源，视觉有时不稳定。** 原开发板已损坏，后续视觉优化和实机复测因此中断。当前代码不能视为稳定完赛版本或经过完整验收的成品。碎片连片、识别抖动、复拍误判与机械放置偏差仍需继续处理。详见 [已知缺陷](docs/KNOWN_ISSUES.md)。
+> **项目状态：已有成功运行演示，视觉有时仍不稳定。** 原开发板已损坏，后续视觉优化和实机复测因此中断。当前代码不能视为稳定完赛版本或经过完整验收的成品。碎片连片、识别抖动、复拍误判与机械放置偏差仍需继续处理。详见 [已知缺陷](docs/KNOWN_ISSUES.md)。
+
+## 成功运行演示
+
+以下两段为 2026-09-30 的实机成功演示，由项目作者确认。点击图片打开完整视频，保留原速和完整动作过程。
+
+| 三片扑克牌拼图 · 约 87 秒 | 四片普通拼图 · 约 77 秒 |
+| --- | --- |
+| [![三片扑克牌成功演示](docs/media/poker-success.jpg)](https://github.com/devotehahaha-prog/vision-puzzle-machine/releases/download/demo-20260930/poker-success-demo.mp4) | [![四片普通拼图成功演示](docs/media/ordinary-success.jpg)](https://github.com/devotehahaha-prog/vision-puzzle-machine/releases/download/demo-20260930/ordinary-success-demo.mp4) |
+
+[视频下载与说明](https://github.com/devotehahaha-prog/vision-puzzle-machine/releases/tag/demo-20260930) · [现场图片与缺陷样例](docs/FIELD_DEMOS.md)。视频展示成功运行的轮次，缺陷图片来自另一轮复拍，不能混为同一次试验。成功演示与偶发不稳定同时存在。
 
 ## 功能组成
 
